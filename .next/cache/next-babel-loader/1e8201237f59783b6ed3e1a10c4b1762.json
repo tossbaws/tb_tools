@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from 'react';\nconst pageTheme = {\n  backgroundColor: '#020228'\n};\nexport default pageTheme;","map":null,"metadata":{},"sourceType":"module"}
