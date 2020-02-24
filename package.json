@@ -8,7 +8,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "heroku-postbuild": "next start",
+    "heroku-postbuild": "next build && next start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
