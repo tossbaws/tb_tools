@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+.idea/**
+.next/**
+node_modules/**
+package-lock.json
