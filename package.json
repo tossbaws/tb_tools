@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tossbaws.github.io/item-grab",
+  "homepage": "https://item-grab.herokuapp.com/",
   "scripts": {
     "dev": "next",
     "build": "next build",
