@@ -9,5 +9,9 @@ Navigate to:
 
   - http://localhost:3000
 
-Currently set to make GET requests to a VM on an internal network. That VM needs to be set up to allow outside traffic to 
-ping securely.
+Currently set up to run with the code at the following:
+
+  - https://github.com/tossbaws/osrs-api/tree/master
+
+Provides a clean looking front end and navigation through all items provided to it by Jagex's Grand Exchange database, serving 
+them in digestable segments for the user to analyze.
