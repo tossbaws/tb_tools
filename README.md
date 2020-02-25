@@ -17,3 +17,6 @@ Provides a clean looking front end and navigation through all items provided to 
 them in digestable segments for the user to analyze.
 
 TODO: Get working with heroku instance so it can be hosted online.
+
+Screenshots of table and selection screens:
+https://imgur.com/a/TFbucF1
