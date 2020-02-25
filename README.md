@@ -15,3 +15,5 @@ Currently set up to run with the code at the following:
 
 Provides a clean looking front end and navigation through all items provided to it by Jagex's Grand Exchange database, serving 
 them in digestable segments for the user to analyze.
+
+TODO: Get working with heroku instance so it can be hosted online.
